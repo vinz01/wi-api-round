@@ -103,9 +103,9 @@ def list(request, userid):
         for el in x:
             y.append(dict(el))
         print(y)
-        #return JsonResponse(tutorials_serializer.data, safe=False)
-        return render(request = request, template_name="main/panel.html", 
-                context = {"response":y})
+        return JsonResponse(tutorials_serializer.data, safe=False)
+        # return render(request = request, template_name="main/panel.html", 
+        #         context = {"response":y})
  
 
 @api_view(['POST', 'GET'])
