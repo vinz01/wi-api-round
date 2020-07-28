@@ -18,9 +18,9 @@ Login: app/user/auth
 Panel: app/panel
 
 
-Add Note: app/sites/<userid>
+Add Note: app/sites/<int: userid>
   
 
-View Notes: app/sites/list/<userid>
+View Notes: app/sites/list/<int :userid>
 
 DEMO VIDEO: https://drive.google.com/file/d/11-jh0qPity2xL_fxDm0j0tDZY68cF1hR/view?usp=sharing 
