@@ -25,3 +25,5 @@ View Notes: app/sites/list/<int :userid>
 
 
 DEMO VIDEO: https://drive.google.com/file/d/11-jh0qPity2xL_fxDm0j0tDZY68cF1hR/view?usp=sharing 
+
+QUESTION DETAILS: https://drive.google.com/file/d/1ulZXpwsf5iUy6WI_aA13ylvdTT3G5E07/view?usp=sharing
